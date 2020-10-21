@@ -1,0 +1,10 @@
+JavaScript Lab: Starting With Why
+1. true
+2. browsers
+3. Mozilla
+
+The code is:
+PEW PEW PEW!
+
+JavaScript Lab: The Master Password
+F!N!TE
